@@ -7,7 +7,7 @@ This repository provides the Prolific PL-2303 USB-to-Serial adapter driver for W
 - Simple, easy-to-use installer.
 
 ## Step 1: Download the Driver
-Download the driver installer from the [Releases](https://website-name.com) section.
+Download the driver installer from the [Releases](https://github.com/semklim/PL2303-USB-Driver-Windows-10-11/releases/) section.
 
 ## Step 2: Install the Driver
 Certain versions of the PL2303 chipset (especially older models) may not work properly with the latest drivers on Windows 10/11. In such cases, you may need to roll back to an older driver that is compatible with your specific device.
@@ -34,7 +34,7 @@ By selecting an older driver, you can often resolve compatibility issues with le
 - Простий і зручний в установці інсталятор.
 
 ## Крок 1: Завантажте драйвер
-Завантажте інсталятор драйвера з розділу [Releases](https://website-name.com).
+Завантажте інсталятор драйвера з розділу [Releases]([https://website-name.com](https://github.com/semklim/PL2303-USB-Driver-Windows-10-11/releases/).
 
 ## Крок 2: Встановіть драйвер
 Деякі версії чіпсету PL2303 (особливо старі моделі) можуть не працювати належним чином із новими драйверами на Windows 10/11. У таких випадках може виникнути необхідність повернутися до старішої версії драйвера, сумісної з вашим пристроєм.
