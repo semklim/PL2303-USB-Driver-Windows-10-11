@@ -34,7 +34,7 @@ By selecting an older driver, you can often resolve compatibility issues with le
 - Простий і зручний в установці інсталятор.
 
 ## Крок 1: Завантажте драйвер
-Завантажте інсталятор драйвера з розділу [Releases]([https://website-name.com](https://github.com/semklim/PL2303-USB-Driver-Windows-10-11/releases/).
+Завантажте інсталятор драйвера з розділу [Releases](https://github.com/semklim/PL2303-USB-Driver-Windows-10-11/releases/).
 
 ## Крок 2: Встановіть драйвер
 Деякі версії чіпсету PL2303 (особливо старі моделі) можуть не працювати належним чином із новими драйверами на Windows 10/11. У таких випадках може виникнути необхідність повернутися до старішої версії драйвера, сумісної з вашим пристроєм.
